@@ -29,8 +29,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h3 align="center">Tattoo Classifier</h3>
-
+  <h1 align="center">Tattoo Classifier</h3>
   <p align="center">
     Binary Classifier (No Tattoo or Tattoo)
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
