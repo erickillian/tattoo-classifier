@@ -43,6 +43,10 @@
 </div>
 
 
+## Google Colab Integration
+Open in [Google Colab ](https://githubtocolab.com/erickillian/tattoo_classifier)
+
+
 ## Dataset
 The dataset I put together is available for anyone to download on Kaggle ([https://www.kaggle.com/datasets/erickillian/people-tattoos](https://www.kaggle.com/datasets/erickillian/people-tattoos))
 
